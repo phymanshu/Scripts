@@ -1,6 +1,6 @@
 #!/bin/bash
 #####################
-#  run: $ source getFilesFromAlien.sh inputList.txt AO2D.root
+#  run: $ source getFilesFromAlien.sh fileListAlien.txt AO2D.root
 #  first arg:   a txt file contains the paths from `alien`
 #  second arg:  file you want to download, e.g., AO2D.root or AnalysisResults.root
 #               If you dont specify second arg, it will download everything present in that alien directory.
